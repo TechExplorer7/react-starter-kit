@@ -7,8 +7,8 @@
   - [x] React 環境構築
   - [x] ESLint 導入
   - [x] Prettier 導入
-  - [ ] Husky 導入
-  - [ ] Lint-Staged 導入
+  - [x] Husky 導入
+  - [x] Lint-Staged 導入
 - **サンプルアプリ作成(TODO アプリ)**
   - [ ] Mantine 導入
   - [ ] MSW 導入
