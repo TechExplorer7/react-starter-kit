@@ -50,3 +50,10 @@
 
 - Jest(ユニットテスト)
 - React Testing Library(React コンポーネントテスト)
+
+## 環境構築
+
+```sh
+npm i
+npm run dev
+```
