@@ -2,6 +2,7 @@
   "recommendations": [
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
-    "usernamehw.errorlens"
+    "usernamehw.errorlens",
+    "streetsidesoftware.code-spell-checker"
   ]
 }
